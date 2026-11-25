@@ -16,14 +16,14 @@ Projeto escrito em Java com uso de Eclipse IDE.
 2. Clone ou baixe este projeto:
 
 ```
-git clone https://github.com/sam-cavalheiro/corrida-de-grilos-multithreading.git
+git clone https://github.com/sam-cavalheiro/corrida-grilos-multithreading.git
 ```
 
 3. Navegue até o diretório onde você clonou ou baixou o projeto:
 
 
 ```
-cd pasta/para/o/corrida-de-grilos-multithreading
+cd pasta/para/o/corrida-grilos-multithreading
 ```
 	
 4. Execute:
